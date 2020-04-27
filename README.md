@@ -12,8 +12,8 @@ Basic operations
 *delete an entry
 ##Using the App
 ### BirthdaysApp.py module
-![BirthdaysApp.py module screenshot](/images/birthdaysApp.png?raw=true)
+![BirthdaysApp.py module screenshot](birthdaysApp.png?raw=true)
 ### main.py module
-![main.py module screenshot](/images/main.py.png?raw=true)
+![main.py module screenshot](main.py.png?raw=true)
 ### Creating an instance of BirthdaysApp
-![myApp; an instance of Birthdays.BirthdayApp](/images/new_instance.png?raw=true)
+![myApp; an instance of Birthdays.BirthdayApp](new_instance.png?raw=true)
