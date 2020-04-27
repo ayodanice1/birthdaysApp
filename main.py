@@ -1,4 +1,4 @@
-from checkBirthdays import BirthdayApp
+from BirthdaysApp import BirthdayApp
 
 def main():
     """
