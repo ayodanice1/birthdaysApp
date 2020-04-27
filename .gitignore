@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 __pycache__/
 *.db
+=======
+*.db
+*.pyc
+>>>>>>> develop
